@@ -17,15 +17,15 @@
     <t-icon icon="el-openfile1"></t-icon>
     <t-icon icon="el-closefile1"></t-icon>
     <t-icon icon="shanchu"></t-icon>
-    </div>
+  </div>
 </template>
 
 <script>
 export default {
   name: "App",
-  methods:{
-    del(e){
-      console.log(e)
+  methods: {
+    del(e) {
+      console.log(e);
     }
   }
 };
